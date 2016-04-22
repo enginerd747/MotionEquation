@@ -6,21 +6,7 @@
     android:orientation="vertical"
     tools:context="com.example.he_man.motionequation.ActivityMain">
 
-    <android.support.v4.view.ViewPager
 
-      android:layout_height="0dp"
-      android:layout_width="match_parent"
-      android:id="@+id/pager"
-      android:layout_weight="1"
-    xmlns:android="http://schemas.android.com/apk/res/android">
-    </android.support.v4.view.ViewPager>
-
-    <LinearLayout
-        android:background="#a7a7a5"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1">
-    </LinearLayout>
 
 
 </LinearLayout>

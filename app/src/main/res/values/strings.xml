@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MotionEquation</string>
+    <string name="str_eingabe">Startwerte eingeben!</string>
+    <string name="a_0">Start Acc</string>
+    <string name="v_0">Gesch Start</string>
+    <string name="s_0">Höhe Start</string>
+    <string name="beta">Winkel Start</string>
+    <string name="enter">los gehts!</string>
 </resources>
