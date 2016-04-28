@@ -1,9 +1,17 @@
 <resources>
     <string name="app_name">MotionEquation</string>
     <string name="str_eingabe">Startwerte eingeben!</string>
-    <string name="a_0">Start Acc</string>
-    <string name="v_0">Gesch Start</string>
-    <string name="s_0">Höhe Start</string>
+    <string name="a_0">Acc Start</string>
+    <string name="v_0">Velo Start</string>
+    <string name="s_0">Alti Start</string>
     <string name="beta">Winkel Start</string>
-    <string name="enter">los gehts!</string>
+    <string name="enter">Eingabe!</string>
+    <string name="v_x">Velo x</string>
+    <string name="v_y">Velo y</string>
+    <string name="v_max">Velo max</string>
+    <string name="hoehe_max">Hoehe max</string>
+    <string name="zeit_bis_hoehe_max">t Hoehe max</string>
+    <string name="fall_zeit">t Fallzeit</string>
+    <string name="weite_x">Weite x</string>
+    <string name="winkel_aufschlag">beta Aufprall</string>
 </resources>
